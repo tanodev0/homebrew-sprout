@@ -1,29 +1,29 @@
-# homebrew-crpr
+# homebrew-sprout
 
-Homebrew tap for [crpr](https://github.com/tanodev0/crpr) — the CReate PRoyect CLI.
+Homebrew tap for [sprout](https://github.com/tanodev0/sprout), the project scaffolding CLI.
 
 ## Install
 
 ```sh
-brew install tanodev0/crpr/crpr
+brew install tanodev0/sprout/sprout
 ```
 
-That command taps this repository and installs the `crpr` command in one step. The longer form is equivalent:
+That command taps this repository and installs the `sprout` command in one step. The longer form is equivalent:
 
 ```sh
-brew tap tanodev0/crpr
-brew install crpr
+brew tap tanodev0/sprout
+brew install sprout
 ```
 
 ## Upgrade
 
 ```sh
-brew upgrade crpr
+brew upgrade sprout
 ```
 
 ## Uninstall
 
 ```sh
-brew uninstall crpr
-brew untap tanodev0/crpr
+brew uninstall sprout
+brew untap tanodev0/sprout
 ```
